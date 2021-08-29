@@ -2,8 +2,9 @@
 
 This application suggests a movie based on your country,language,genre,duration and year selection.
 
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/29722241/131225562-64e055e3-5582-4fce-8e01-1ff41e87e067.png" width="600" height="550">
+</p>
 
 Here, how you can run this web application through your console.
 
