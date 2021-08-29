@@ -7,11 +7,14 @@ This application suggests a movie based on your country,language,genre,duration 
 
 Here, how you can run this web application.
 
-# 1) Access the virtual enviroment
+# 1) Clone this repository
+> git clone https://github.com/kamil3di/movie_recommendation.git
+
+# 2) Access the virtual enviroment
 > .\MRE\Scripts\activate
 
-# 2) Required libraries are added
+# 3) Required libraries are added
 > pip install -r requirements.txt
 
-# 3) Launch web app
+# 4) Launch web app
 > streamlit run app.py
