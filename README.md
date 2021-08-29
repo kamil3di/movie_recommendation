@@ -9,6 +9,7 @@ Here, how you can run this web application through your console.
 
 # 1) Clone this repository and move to directory
 > git clone https://github.com/kamil3di/movie_recommendation.git
+
 > cd movie_recommendation
 
 # 2) Access the virtual enviroment
