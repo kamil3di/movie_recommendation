@@ -18,7 +18,7 @@ Here, how you can run this web application through your console.
 # 2) Access the virtual enviroment
 > .\MRE\Scripts\activate
 
-# 3) Required libraries are added
+# 3) Add required libraries
 > pip install -r requirements.txt
 
 # 4) Launch web app
