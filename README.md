@@ -1,6 +1,8 @@
 # Movie recommendation application
 
-This application suggests a movie based on your country,language,genre,duration and year selection.
+This application suggests a movie based on your country,language,genre,duration and year selection. 
+
+The dataset is here: [Kaggle Dataset](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/29722241/131225562-64e055e3-5582-4fce-8e01-1ff41e87e067.png" width="600" height="550">
